@@ -1,0 +1,10 @@
+!raw/.gitkeep
+# 系統檔案
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
